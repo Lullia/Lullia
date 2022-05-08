@@ -1,9 +1,20 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Elodie Teneur</h1>
-<h3 align="center">I'm a student in master cybersecurity</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lullia&label=Profile%20views&color=0e75b6&style=flat" alt="lullia" /> </p>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Elodie Teneur</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lullia" alt="lullia" /></a> </p>
+<!-- Intro -->
+<p style="margin: 15px;">
+    <h3 align="center">I'm a french student in master cybersecurity 🥖 </h3>
+</p>
+  
+<!-- Trophées -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lullia&theme=discord" alt="lullia" /></a> </p>
+
+
+<!-- Projects -->
+<h1 align="center">My latest projects 👨‍💻</h1>
+<div align="center">
 
 - 🔭 I’m currently working on **Docker project**
 
