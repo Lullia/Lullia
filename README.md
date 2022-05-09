@@ -1,10 +1,10 @@
+<!-- Banner -->
+[![Lullia's GitHub Banner](./img/Banner.png)](https://lullia.github.io/personal-website/)
+
 <!-- Profile view -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lullia&label=Profile%20views&color=0e75b6&style=flat" alt="lullia" /> </p>
 
 <!-- Intro -->
-
-## Hi, welcome on my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 #### <img src="https://i.pinimg.com/originals/20/c6/09/20c609f194dde4421224b94e9d3d5c6c.gif" width="25px"> Who am I ?
 I'm a french student in system security and network. I am passionate new technology and cybersécurity. <br> <br>
 
