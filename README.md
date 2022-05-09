@@ -4,7 +4,6 @@
 <!-- Profile view -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lullia&label=Profile%20views&color=0e75b6&style=flat" alt="lullia" /> </p>
-<img align="right" src="https://media.giphy.com/media/84SFZf1BKgzeny1WxQ/giphy.gif" width="300px" style="border-radius:50%">
 
 <!-- Intro -->
 ## Hi, welcome on my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -19,6 +18,7 @@ I'm a french student in system security and network. I am passionate new technol
 ## My Trophy
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lullia&theme=discord" alt="lullia" /></a> </p>
 
+<img align="right" src="https://media.giphy.com/media/84SFZf1BKgzeny1WxQ/giphy.gif" width="300px" style="border-radius:50%">
 
 <!-- Projects -->             
 ## My latest projects 👨‍💻
