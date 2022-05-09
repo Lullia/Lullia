@@ -32,7 +32,7 @@ I'm a french student in system security and network. I am passionate new technol
 </p>
 
 <!-- Contacts -->
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elodie-teneur-64b90215a/)
+
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/eteneur)
 ![Discord](https://img.shields.io/badge/Lullia&#9839;0002-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 </p>
