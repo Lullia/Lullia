@@ -13,7 +13,7 @@
 #### <img src="https://i.pinimg.com/originals/20/c6/09/20c609f194dde4421224b94e9d3d5c6c.gif" width="25px"> Who am I ?
 I'm a french student in system security and network. I am passionate about new technology and cybersecurity. <br> <br>
 
-<p><em>Network and security engineer at <a href="https://hubone.fr">HubOne <img src="![image](https://user-images.githubusercontent.com/67014903/167316428-7a5ee728-0e38-44e8-b1a0-9dd1f1a1fdeb.png)" width="30px"/></a> | In formation E3IN at <a href="https://www.esiee-it.fr/fr"><img src="https://www.esiee-it.fr/themes/custom/generic/medias/logo-esiee-it.png" alt="ESIEE-IT" width="50px"/></a></em></p>
+<p><em>Technical Presales at <a href="https://france.scc.com">SCC <img src="![image](https://user-images.githubusercontent.com/67014903/167316428-7a5ee728-0e38-44e8-b1a0-9dd1f1a1fdeb.png)" width="30px"/></a> | In formation E3IN at <a href="https://www.esiee-it.fr/fr"><img src="https://www.esiee-it.fr/themes/custom/generic/medias/logo-esiee-it.png" alt="ESIEE-IT" width="50px"/></a></em></p>
  
 
 <!-- Trophées -->
