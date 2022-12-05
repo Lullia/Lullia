@@ -24,8 +24,7 @@ I'm a french student in system security and network. I am passionate about new t
 
 <!-- Projects -->             
 ## My latest projects 👨‍💻
-- 🔭 I’m currently working on **Docker project**
-- 🔭 I'm currently working on flutter application **"Tindev"**
+- 🔭 I’m currently working on **Docker project** ...
       
 
 <!-- Technos -->
