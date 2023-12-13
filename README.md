@@ -1,3 +1,11 @@
+<div align="center">
+<img src="https://i.imgur.com/LK4RQAa.png" align="center" style="width: 20%" />
+</div>  
+  
+
+## <div align="center">I'm Elodie, a computer science student specializing in networks, systems and security based in France, with a strong passion for new technologies and connected objects. 🛸</div>  
+
+
 <!-- Banner -->
 [![Lullia's GitHub Banner](./img/Banner1.png)](https://lullia.github.io/personal-website/)
 
@@ -41,10 +49,6 @@ I'm a french student in system security and network. I am passionate about new t
 ### 🙊 A little laughter for you
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)       
 
-<!-- ZeroTwo -->
-<p align="center">
-    <img align="center" src="https://pngroyale.com/wp-content/uploads/2021/09/236403119_157618953172577_1692705945239903638_n_adobespark.png">
-</p>
 
 <!-- Contacts -->
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/eteneur)
