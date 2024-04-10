@@ -51,12 +51,5 @@ I'm a french student in system security and network. I am passionate about new t
 
 
 <!-- Contacts -->
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/eteneur)
-![Discord](https://img.shields.io/badge/Lullia&#9839;0002-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-</p>
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lullia)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elodie-teneur-64b90215a/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/elodie.teneur/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elodie.teneur@edu.itescia.fr)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:brendalove2@hotmail.com)
